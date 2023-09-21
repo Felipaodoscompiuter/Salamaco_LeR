@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.principal{
+    background-image: url(img/Combo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+body {
+    background-color: black;
+    color: yellow;
+}
+
+.container{
+    height: 120vh;
+}
