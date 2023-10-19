@@ -5,10 +5,26 @@
 
 .principal{
     background-image: url(img/Combo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
 }
+
 
 body {
     background-color: black;
     color: yellow;
 }
 
+.container{
+    height: 120vh;
+    display:grid;
+    grid-template-columns: 50% 50% ;
+}
+
+.container_botao{
+    background-color: red;
+    border-radius: 4px;
+    padding: 1em;
+    color: white;
+    display: block;
+}
