@@ -12,7 +12,9 @@
 
 body {
     background-color: black;
-    color: yellow;
+    color: yellow ;
+    font-size: 20px;
+    font-weight: 900;
 }
 
 .container{
@@ -27,4 +29,17 @@ body {
     padding: 1em;
     color: white;
     display: block;
+    text-decoration: none;
+}
+
+.botao_secundario {
+    background-color: yellow;
+    border: 2px;
+    text-decoration: none;
+
+}
+
+.container_aviso {
+    background-color: transparent;
+    font-size: 12px;
 }
