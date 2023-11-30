@@ -32,7 +32,7 @@ body {
 }
 
 .botao_secundario {
-    background-color: yellow;
+    background-color: rgb(0, 153, 255);
     border: 2px;
     text-decoration: none;
 
@@ -51,3 +51,14 @@ body {
 .container_caixa {
     margin: 0 0;
 }
+
+.secundario_imagem {
+    widows: 40%;
+}
+
+.secundario {
+align-items:center;
+margin: 0 10em;
+background-image:url(img/Coma.png)
+}
+
